@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1efe7c1-2a78-4215-8c34-b6c314ac1ac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThreeNumberMaxTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,9 +79,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ThreeNumberMaxTwo">
+  <component name="RunManager" selected="Application.ThreeNumberMax">
     <configuration name="ThreeNumberMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeNumberMax" />
       <module name="AnimatedJava" />
@@ -99,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeNumberMaxTwo" />
         <item itemvalue="Application.ThreeNumberMax" />
+        <item itemvalue="Application.ThreeNumberMaxTwo" />
       </list>
     </recent_temporary>
   </component>
